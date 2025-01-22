@@ -5,7 +5,7 @@
 
 - 👯Cargo: **Analista de TIC**
 
-- 🤝Atualmente estou aprendendo **Cloud AWS, Análise de Dados, Python, Google Data Studio e Power BI.**
+- 🤝Atualmente estou aprendendo ** Análise de Dados | Ciências de Dados | Microsoft Power BI | Segurança da Informação | Cloud Computing (AWS, Azure e Google) .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

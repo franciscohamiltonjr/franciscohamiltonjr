@@ -6,7 +6,7 @@
 - 👯Cargo: **Analista de TIC**
 
 - 🤝Atualmente estou aprendendo :
-  **'Análise de Dados | Ciências de Dados | Microsoft Power BI | Google Looker Studio | Segurança da Informação | Cloud Computing (AWS, Azure e Google)'**
+  **Análise de Dados | Ciências de Dados | Microsoft Power BI | Google Looker Studio | Segurança da Informação | Cloud Computing (AWS, Azure e Google).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

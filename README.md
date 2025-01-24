@@ -14,7 +14,7 @@
 <a href="https://instagram.com/francisco.hamilton.junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francisco.hamilton.junior/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Ferramentas e Linguagens:</h3>
+<h3 align="left">Ferramentas e Linguagens de interesse:</h3>
 <img
  align="left"
  alt="Linux"
@@ -22,8 +22,7 @@
  width="50px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
- />
-          
+ />       
 <img
  align="left"
  alt="Google Education"
@@ -32,4 +31,27 @@
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
  />
- 
+ <img
+ align="left"
+ alt="Google Cloud"
+ title="Google Cloud"
+ width="50px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+ />
+ <img
+ align="left"
+ alt="AWS"
+ title="AWS"
+ width="50px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+ />
+  <img
+ align="left"
+ alt="Python"
+ title="Python"
+ width="50px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+ />

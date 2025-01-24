@@ -15,14 +15,7 @@
 </p>
 
 <h3 align="left">Ferramentas e Linguagens de interesse:</h3>
-<img
- align="left"
- alt="Linux"
- title="Linux"
- width="50px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
- />       
+
 <img
  align="left"
  alt="Google Education"
@@ -35,7 +28,7 @@
  align="left"
  alt="Google Cloud"
  title="Google Cloud"
- width="50px"
+ width="70px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
  />
@@ -55,3 +48,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
  />
+  <img
+ align="left"
+ alt="SQL"
+ title="SQL"
+ width="50px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+ />
+<img
+ align="left"
+ alt="Linux"
+ title="Linux"
+ width="50px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+ />       

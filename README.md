@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu Sou Francisco Hamilton jr</h1>
 <h3 align="center">Apaixonado por Tecnologia da Informação</h3>
 
-- 🔭 Estou trabalhando no **Instituto Federal do Sertão Pernambucano (IFSertãoPE)**
+- ⚡ Estou trabalhando no **Instituto Federal do Sertão Pernambucano (IFSertãoPE)**
 
-- 👯Cargo: **Analista de TIC**
+- ⚡Cargo: **Analista de TIC**
 
-- 🤝Atualmente estou aprendendo :
+- ⚡Atualmente estou aprendendo :
   **Análise de Dados | Ciências de Dados | Microsoft Power BI | Google Looker Studio | Segurança da Informação | Cloud Computing (AWS, Azure e Google).**
 
 <h3 align="left">Connect with me:</h3>

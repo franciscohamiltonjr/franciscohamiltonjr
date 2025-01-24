@@ -20,7 +20,7 @@
  align="left"
  alt="Google Education"
  title="Google Education"
- width="50px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
  />
@@ -36,7 +36,7 @@
  align="left"
  alt="AWS"
  title="AWS"
- width="50px"
+ width="40px"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
  />
@@ -44,7 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices
  align="left"
  alt="Python"
  title="Python"
- width="50px"
+ width="40px"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
  />
@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
  align="left"
  alt="SQL"
  title="SQL"
- width="50px"
+ width="40px"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
  />
@@ -60,7 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
  align="left"
  alt="Linux"
  title="Linux"
- width="50px"
+ width="40px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
  />       

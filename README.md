@@ -17,11 +17,19 @@
 <h3 align="left">Ferramentas e Linguagens:</h3>
 <img
  align="left"
- alt="CSS"
- title="CSS"
+ alt="Linux"
+ title="Linux"
  width="50px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
  />
           
-
+<img
+ align="left"
+ alt="Google Education"
+ title="Google Education"
+ width="50px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+ />
+ 

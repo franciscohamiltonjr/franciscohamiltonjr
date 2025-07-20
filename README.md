@@ -51,5 +51,5 @@ Sou profissional da área de **Tecnologia da Informação**, com sólida experi�
 ---
 
 > 📫 Entre em contato: francisco.hamilton@ifsertao-pe.edu.br  
-> 👨‍💻 Portfólio: [Linktree com projetos e dashboards](https://linktr.ee/francisco.hamilton)
+
 

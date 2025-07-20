@@ -1,66 +1,55 @@
-<h1 align="center">Oi 👋, Eu Sou Francisco Hamilton jr</h1>
-<h3 align="center">Apaixonado por Tecnologia da Informação</h3>
+# 👋 Olá! Eu sou Francisco Hamilton
 
-⚡ Estou trabalhando no **Instituto Federal do Sertão Pernambucano (IFSertãoPE)**
+🎓 **Analista de Tecnologia da Informação no Instituto Federal do Sertão Pernambucano (IFSertãoPE)**  
+💡 Apaixonado por soluções tecnológicas, dados e inovação para transformar a gestão pública.
 
-⚡Cargo: **Analista de TIC**
+---
 
-⚡Atualmente estou aprendendo :
-  **Análise de Dados | Ciências de Dados | Segurança da Informação | Cloud Computing (AWS, Azure e Google).**
+## 💼 Sobre mim
 
-<h3 align="left">Minhas Redes Sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/franciscohamiltonjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscohamiltonjr" height="30" width="40" /></a>
-<a href="https://instagram.com/francisco.hamilton.junior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francisco.hamilton.junior/" height="30" width="40" /></a>
-</p>
+Sou profissional da área de **Tecnologia da Informação**, com sólida experiência em infraestrutura de redes, segurança da informação e, mais recentemente, **análise de dados e transformação digital**. Tenho buscado capacitação contínua em ferramentas como **Power BI, Python, bancos de dados** e automações, sempre com foco em criar valor por meio da **inteligência analítica e da visualização de dados**.
 
-<h3 align="left">Ferramentas e Linguagens de interesse:</h3>
+---
 
-<img
- align="left"
- alt="Google Education"
- title="Google Education"
- width="40px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
- />
- <img
- align="left"
- alt="Google Cloud"
- title="Google Cloud"
- width="70px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
- />
- <img
- align="left"
- alt="AWS"
- title="AWS"
- width="40px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
- />
-  <img
- align="left"
- alt="Python"
- title="Python"
- width="40px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
- />
-  <img
- align="left"
- alt="SQL"
- title="SQL"
- width="40px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
- />
-<img
- align="left"
- alt="Linux"
- title="Linux"
- width="40px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
- />       
+## ⚙️ Tecnologias e Ferramentas do meu dia a dia
+
+- **Sistemas Operacionais:** Linux, Windows  
+- **Produtividade:** Microsoft Excel, Google Workspace (Docs, Sheets, Slides, Keep, Meet)  
+- **Visualização e BI:** Microsoft Power BI, Looker Studio  
+- **Modelagem e Gestão:** Bizagi Modeler, Gestão de Projetos e Processos  
+
+---
+
+## 🚀 Tecnologias em Estudo
+
+- **Automação:** Make, n8n  
+- **Programação e Dados:** Python, SQL, Postgres, MariaDB  
+- **DevOps & Cloud:** Docker, GitHub, AWS, Google Cloud, Azure  
+
+---
+
+## 📜 Certificações
+
+| Ano | Certificação | Instituição |
+|-----|--------------|-------------|
+| 2025 | Cisco Certified Support Technician Networking (CCST) | Cisco |
+| 2025 | Microsoft Certified: Azure Data Fundamentals (DP-900) | Microsoft |
+| 2025 | Microsoft Certified: Conceitos básicos do Power Platform (PL-900) | Microsoft |
+| 2023 | Business Intelligence Foundation Professional Certification (BIFPC) | CertiProf |
+| 2023 | Fortinet Certified Fundamentals Cybersecurity (FCF) | Fortinet |
+| 2023 | Fortinet Certified Associate Cybersecurity (FCA) | Fortinet |
+| 2021 | Educador Certificado Nível 1 | Google For Education |
+| 2021 | Educador Certificado Nível 2 | Google For Education |
+
+---
+
+## 🌐 Minhas Redes
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscohamiltonjr/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/francisco.hamilton.junior/)
+
+---
+
+> 📫 Entre em contato: francisco.hamilton@ifsertao-pe.edu.br  
+> 👨‍💻 Portfólio: [Linktree com projetos e dashboards](https://linktr.ee/francisco.hamilton)
+

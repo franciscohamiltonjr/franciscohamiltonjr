@@ -14,7 +14,7 @@ Sou profissional da área de **Tecnologia da Informação**, com sólida experi�
 ## ⚙️ Tecnologias e Ferramentas do meu dia a dia
 
 - **Sistemas Operacionais:** Linux, Windows  
-- **Produtividade:** Microsoft Excel, Google Workspace (Docs, Sheets, Slides, Keep, Meet)  
+- **Produtividade:** Microsoft 365 (Word, Excel, Power Point, OneDrive,OneNote, Vision, Planner) e Google Workspace (Docs, Sheets, Slides, Keep, Meet)  
 - **Visualização e BI:** Microsoft Power BI, Looker Studio  
 - **Modelagem e Gestão:** Bizagi Modeler, Gestão de Projetos e Processos  
 
